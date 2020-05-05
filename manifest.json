@@ -1,6 +1,6 @@
 {
     "name": "ClariS Click Version",
-    "version": "1.0.0.1",
+    "version": "1.0.0.4",
     "manifest_version": 2,
     "description": "ClariS Click version theme",
     "icons": {
@@ -76,6 +76,11 @@
                 0,
                 0,
                 1
+            ],
+            "omnibox_background": [
+                241,
+                243,
+                244
             ]
         },
         "properties": {
