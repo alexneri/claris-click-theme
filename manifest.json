@@ -69,6 +69,11 @@
                 153,
                 51,
                 102
+            ],
+            "omnibox_background": [
+                241,
+                243,
+                244
             ]
         },
         "tints": {
@@ -76,11 +81,6 @@
                 0,
                 0,
                 1
-            ],
-            "omnibox_background": [
-                241,
-                243,
-                244
             ]
         },
         "properties": {
